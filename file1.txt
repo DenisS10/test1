@@ -1,1 +1,3 @@
-Nwe Line
+New Line
+New Line2
+Some info for file
